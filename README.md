@@ -31,7 +31,7 @@ Thanks to MHProDev, Leeon123, R00tS3c, emp001, cocorisss  and wachirachoomsiri f
     Go into your Anti-Cursed-Darkness-Squad Installation Folder
     Or install it by:
     
-    git clone https://github.com/Z3NTL3/Anti-Cursed-Darkness-Squad-BETA
+    git clone https://github.com/BIRTAX38/Anti-Cursed-Darkness-Squad-BETA
     cd Anti-Cursed-Darkness-Squad-BETA
    
     
