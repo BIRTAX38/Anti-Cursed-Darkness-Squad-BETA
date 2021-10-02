@@ -1,5 +1,5 @@
 ![GitHub Logo](https://raw.githubusercontent.com/Z3NTL3/Anti-Cursed-Darkness-Squad-BETA/main/putty.png)<br>
-# Anti-Cursed-Darkness-Squad v7
+# Anti-Cursed-Darkness-Squad v7 REPLOUD
 Powerful Layer 7 & 4 panel. 
  
 Thanks to MHProDev, Leeon123, R00tS3c, emp001, cocorisss  and wachirachoomsiri for their methods. This tool is an one-in-all DDOS Panel with the best methods. Only the panel it self, functionality, the proxy-crawler is coded by z3ntl3 root. Others are not part of our code!
